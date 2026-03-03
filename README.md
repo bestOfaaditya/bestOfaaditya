@@ -1,7 +1,7 @@
 ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=bestOfaaditya&label=Profile%20Views&color=0e75b6&style=flat)
 
 I'm Aaditya Bahadkar, a Master's student at Stony Brook University specializing in Operations Research (Data Science).
-
 - 🔭 I’m actively looking for full-time roles starting May 2026.
 - 🌱 I’m currently studying Statistical Learning, Stochastic Processes, Simulation Modeling, and Big Data Systems.
 - 👯 Previously worked at Deloitte supporting U.S. banking clients on payments modernization and financial data systems.
@@ -22,7 +22,3 @@ I'm Aaditya Bahadkar, a Master's student at Stony Brook University specializing 
 - Applying statistical modeling to decision systems  
 - Strengthening optimization and simulation modeling foundations  
 
----
-
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=bestOfaaditya&layout=compact)
