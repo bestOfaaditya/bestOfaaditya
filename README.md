@@ -1,11 +1,28 @@
 ## Hi there 👋
-I'm Aaditya Bahadkar, first year Master's student at Stony Brook University specialising in Operations Research.
-- 🔭 I’m actively looking for full time roles starting Dec 2025.
-- 🌱 I’m currently learning Linear Programming, Probability, Statistical Learning and Data Analysis
-- 👯 I've previously worked in Deloitte as an Analyst in their Consulting domain
-<!--
-**bestOfaaditya/bestOfaaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Aaditya Bahadkar, a Master's student at Stony Brook University specializing in Operations Research (Data Science).
 
--->
+- 🔭 I’m actively looking for full-time roles starting May 2026.
+- 🌱 I’m currently studying Statistical Learning, Stochastic Processes, Simulation Modeling, and Big Data Systems.
+- 👯 Previously worked at Deloitte supporting U.S. banking clients on payments modernization and financial data systems.
+- 📊 Interested in business/ data analytics, applied mathematics, and decision-focused data systems.
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python | R | SQL | C | C++  
+**Data & ML:** Pandas | NumPy | Scikit-Learn | TensorFlow | Matplotlib  
+**BI & Reporting:** Tableau | Power BI | Advanced Excel  
+**Systems & Tools:** AWS | Git | Oracle | MS SQL | Alteryx | Jira  
+
+---
+
+### 📚 Current Focus
+- Building scalable data pipelines  
+- Applying statistical modeling to decision systems  
+- Strengthening optimization and simulation modeling foundations  
+
+---
+
+### 📈 GitHub Stats
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bestOfaaditya&layout=compact)
