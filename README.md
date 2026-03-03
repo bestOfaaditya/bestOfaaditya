@@ -26,3 +26,4 @@ I'm Aaditya Bahadkar, a Master's student at Stony Brook University specializing 
 
 ### 📈 GitHub Stats
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bestOfaaditya&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestOfaaditya&layout=compact)
